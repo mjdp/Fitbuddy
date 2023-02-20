@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "474760935981",
+    "project_id": "fitbuddy-74c63",
+    "storage_bucket": "fitbuddy-74c63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474760935981:android:38616c5ac9c41aa85916a4",
+        "android_client_info": {
+          "package_name": "ph.dlsu.s11.mobdeve_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474760935981-aojif52fcusi8l2is5vtid989vi1kfad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPT5r_wSiREFF2RfXGuYZnspzpXowjXJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474760935981-aojif52fcusi8l2is5vtid989vi1kfad.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
